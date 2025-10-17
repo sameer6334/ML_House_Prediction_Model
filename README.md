@@ -65,3 +65,16 @@ If you have ideas for improvements or want to collaborate, feel free to open an 
 
 ## 📂 Project Structure
 
+│-- data/
+│ │-- housing.csv
+│ │-- input.csv
+│-- notebooks/
+│ │-- exploration.ipynb
+│-- models/
+│ │-- model.pkl (auto-generated)
+│-- output/
+│ │-- output.csv (auto-generated)
+│-- src/
+│ │-- train_and_predict.py
+│-- README.md
+
